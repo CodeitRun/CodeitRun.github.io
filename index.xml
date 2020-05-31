@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Code it Run</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Code it Run</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 31 May 2020 18:21:39 +0800</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello</title>
+      <link>http://example.org/post/hello/</link>
+      <pubDate>Sun, 31 May 2020 18:21:39 +0800</pubDate>
+      
+      <guid>http://example.org/post/hello/</guid>
+      <description>你好😉 欢迎来到编程驱动大奖赛🎉</description>
+    </item>
+    
+  </channel>
+</rss>
