@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>欢迎来到编程驱动大奖赛！ on Code it Run</title>
-    <link>http://example.org/categories/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E7%BC%96%E7%A8%8B%E9%A9%B1%E5%8A%A8%E5%A4%A7%E5%A5%96%E8%B5%9B/</link>
+    <link>https://nandhyf.gitee.io/codeitrun/categories/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E7%BC%96%E7%A8%8B%E9%A9%B1%E5%8A%A8%E5%A4%A7%E5%A5%96%E8%B5%9B/</link>
     <description>Recent content in 欢迎来到编程驱动大奖赛！ on Code it Run</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sun, 31 May 2020 18:21:39 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/categories/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E7%BC%96%E7%A8%8B%E9%A9%B1%E5%8A%A8%E5%A4%A7%E5%A5%96%E8%B5%9B/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nandhyf.gitee.io/codeitrun/categories/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E7%BC%96%E7%A8%8B%E9%A9%B1%E5%8A%A8%E5%A4%A7%E5%A5%96%E8%B5%9B/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello</title>
-      <link>http://example.org/post/hello/</link>
+      <link>https://nandhyf.gitee.io/codeitrun/post/hello/</link>
       <pubDate>Sun, 31 May 2020 18:21:39 +0800</pubDate>
       
-      <guid>http://example.org/post/hello/</guid>
+      <guid>https://nandhyf.gitee.io/codeitrun/post/hello/</guid>
       <description>你好😉 欢迎来到编程驱动大奖赛🎉</description>
     </item>
     
